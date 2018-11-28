@@ -1,0 +1,14 @@
+c:\users\vande\source\repos\GerenciaContas\GerenciaContas\bin\Debug\netcoreapp2.1\GerenciaContas.deps.json
+c:\users\vande\source\repos\GerenciaContas\GerenciaContas\bin\Debug\netcoreapp2.1\GerenciaContas.runtimeconfig.json
+c:\users\vande\source\repos\GerenciaContas\GerenciaContas\bin\Debug\netcoreapp2.1\GerenciaContas.runtimeconfig.dev.json
+c:\users\vande\source\repos\GerenciaContas\GerenciaContas\bin\Debug\netcoreapp2.1\GerenciaContas.dll
+c:\users\vande\source\repos\GerenciaContas\GerenciaContas\bin\Debug\netcoreapp2.1\GerenciaContas.pdb
+c:\users\vande\source\repos\GerenciaContas\GerenciaContas\obj\Debug\netcoreapp2.1\GerenciaContas.csprojAssemblyReference.cache
+c:\users\vande\source\repos\GerenciaContas\GerenciaContas\obj\Debug\netcoreapp2.1\GerenciaContas.csproj.CoreCompileInputs.cache
+c:\users\vande\source\repos\GerenciaContas\GerenciaContas\obj\Debug\netcoreapp2.1\GerenciaContas.RazorAssemblyInfo.cache
+c:\users\vande\source\repos\GerenciaContas\GerenciaContas\obj\Debug\netcoreapp2.1\GerenciaContas.RazorAssemblyInfo.cs
+c:\users\vande\source\repos\GerenciaContas\GerenciaContas\obj\Debug\netcoreapp2.1\GerenciaContas.AssemblyInfoInputs.cache
+c:\users\vande\source\repos\GerenciaContas\GerenciaContas\obj\Debug\netcoreapp2.1\GerenciaContas.AssemblyInfo.cs
+c:\users\vande\source\repos\GerenciaContas\GerenciaContas\obj\Debug\netcoreapp2.1\GerenciaContas.RazorTargetAssemblyInfo.cache
+c:\users\vande\source\repos\GerenciaContas\GerenciaContas\obj\Debug\netcoreapp2.1\GerenciaContas.dll
+c:\users\vande\source\repos\GerenciaContas\GerenciaContas\obj\Debug\netcoreapp2.1\GerenciaContas.pdb
